@@ -1,0 +1,25 @@
+
+h3 {
+   color:blue;
+   font-size:3em;
+   font-family:Arial;
+   background-color: lightgreen;
+}
+p {
+    color:blue;
+    font-size:1.5em;
+}
+li { color: green;
+}
+ul {
+  margin: 0 50%;
+}
+h2 {color:black;
+   font-size:10em;
+   text-align: center;
+ }
+.summary{font-family:Arial;
+   background-color: lightgreen;
+ }
+
+               

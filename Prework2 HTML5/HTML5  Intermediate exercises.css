@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+          <title>FSWD CSS internal style sheet (1)</title>
+          <style>
+                  h1 {
+                     color:red;
+                     font-size:3em;
+                     font-family:Arial;
+                  }
+                  p {
+                      color:blue;
+                      font-size:1.5em;
+                      background-color: yellow;
+                  }
+           </style>
+ </head>
+ <body>
+      <h1>Hello there</h1>
+      <p>today is such a lovely day!</p>
+ </body>
+</html>
