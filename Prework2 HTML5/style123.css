@@ -1,0 +1,17 @@
+table tr td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	background-color: whitesmoke;
+	}
+	table tr td {
+		padding: 5px;
+	}
+	table{
+		border-spacing: 50px;
+	}
+	table{
+		background-color: whitesmoke;
+	}
+	table tr td .Audio {
+		box-sizing:500px;
+	}
